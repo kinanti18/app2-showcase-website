@@ -20,3 +20,8 @@ with col2:
     Also, she's still and counting to make a new journey 
     and to be a better Kinan each day."""
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
